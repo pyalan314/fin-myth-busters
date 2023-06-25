@@ -1,0 +1,11 @@
+requests
+icecream
+loguru
+tenacity
+pandas
+python-dotenv
+cachier
+scipy
+seaborn
+matplotlib
+yfinance
